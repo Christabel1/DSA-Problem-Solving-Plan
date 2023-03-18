@@ -1,7 +1,7 @@
-Create a lader of questions.
-Create a prototype.
-React and Angle would be used.
-Determine user Interface.
-Use Figma for design.
-Create an MVP.
-look into APIs.
+React and Angle.
+Figma and Invision for design/interface/prototype
+Amazon AWS - API
+Font Awesome - Icons
+Animate.css - Animation library
+wow.js - Reveal Animations When You Scroll
+hover.css - A collection of CSS3 transitions and animations
